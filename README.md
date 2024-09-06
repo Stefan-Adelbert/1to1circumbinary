@@ -1,6 +1,8 @@
 # 1to1circumbinary
 
-This code was used to calculate the data used in the paper "Stability of coorbital planets around binaries" whose publication in currently pending.
+This code was used to calculate the data used in the paper "Stability of coorbital planets around binaries" published in the Journal Astronomy and Astrophysics in December 2023:
+https://arxiv.org/abs/2310.07575
+
 It is uploaded here in order to enable anyone to look into how our results were found and may reproduce them.
 
 This code grew over time, which is why some choices in the implementation may seem suboptimal.
